@@ -22,7 +22,7 @@ Source code for "[Long-tail Augmented Graph Contrastive Learning for Recommendat
 
 
 
-### Overall performance comparsion
+### Overall performance comparison
 
 #### In Paper
 
