@@ -1,6 +1,6 @@
 # LAGCL
 
-Source code for "Long-tail Augmented Graph Contrastive Learning for Recommendation" (ECML/PKDD 2023).
+Source code for "[Long-tail Augmented Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2309.11177)" (ECML/PKDD 2023).
 
 
 
